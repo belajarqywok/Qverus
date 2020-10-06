@@ -1,5 +1,5 @@
 # Qverus
-verus monitoring
+**verus monitoring**
 
-**cara menjalankan**<br>
+_cara menjalankan_<br>
 ```#./Qverus.sh```
