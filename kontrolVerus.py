@@ -182,6 +182,6 @@ except KeyboardInterrupt:
     print("\ntekan CTRL + C lagi untuk keluar\n")
     sys.exit(0)
 except KeyError:
-    print("[ ! ] DATA TIDAK DIKETAHUI.......")
+    print("\33[37;1m[ "+"\033[31m!"+"\33[37;1m ] "+"\33[37;1mDATA TIDAK DIKETAHUI.......")
 
 
